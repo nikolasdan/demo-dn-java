@@ -1,2 +1,2 @@
 # demo-dn-java
-This is an assignment for Java course @Digital Nation
+This is an assignment for the Java course at Digital Nation
